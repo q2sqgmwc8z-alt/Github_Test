@@ -22,5 +22,10 @@ namespace Github_Demo_Test
             MessageBox.Show("nnn");
             MessageBox.Show("分支");
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+           MessageBox.Show("分支12312313131");
+        }
     }
 }
